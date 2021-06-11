@@ -21,6 +21,7 @@ namespace lab2_3
                     int g = int.Parse(s.Substring(6, 1));
                     int h = int.Parse(s.Substring(7, 1));
                     int k = int.Parse(s.Substring(8, 1));
+                    
                     string u = $"{b * 2}{d * 2}{f * 2}{h * 2}";
                     int z = a + c + e + g;
                     int sun = 0;
