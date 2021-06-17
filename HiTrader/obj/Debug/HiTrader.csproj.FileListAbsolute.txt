@@ -1,0 +1,9 @@
+C:\Users\NC.DESKTOP-US9OHVR\RiderProjects\lab2-3\HiTrader\bin\Debug\HiTrader.exe
+C:\Users\NC.DESKTOP-US9OHVR\RiderProjects\lab2-3\HiTrader\bin\Debug\HiTrader.pdb
+C:\Users\NC.DESKTOP-US9OHVR\RiderProjects\lab2-3\HiTrader\bin\Debug\Newtonsoft.Json.dll
+C:\Users\NC.DESKTOP-US9OHVR\RiderProjects\lab2-3\HiTrader\bin\Debug\Newtonsoft.Json.xml
+C:\Users\NC.DESKTOP-US9OHVR\RiderProjects\lab2-3\HiTrader\obj\Debug\HiTrader.csprojAssemblyReference.cache
+C:\Users\NC.DESKTOP-US9OHVR\RiderProjects\lab2-3\HiTrader\obj\Debug\HiTrader.csproj.CoreCompileInputs.cache
+C:\Users\NC.DESKTOP-US9OHVR\RiderProjects\lab2-3\HiTrader\obj\Debug\HiTrader.csproj.CopyComplete
+C:\Users\NC.DESKTOP-US9OHVR\RiderProjects\lab2-3\HiTrader\obj\Debug\HiTrader.exe
+C:\Users\NC.DESKTOP-US9OHVR\RiderProjects\lab2-3\HiTrader\obj\Debug\HiTrader.pdb
