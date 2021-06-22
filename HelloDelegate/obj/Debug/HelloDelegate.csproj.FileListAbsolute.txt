@@ -1,0 +1,6 @@
+C:\Users\NC.DESKTOP-US9OHVR\RiderProjects\lab2-3\HelloDelegate\bin\Debug\HelloDelegate.exe
+C:\Users\NC.DESKTOP-US9OHVR\RiderProjects\lab2-3\HelloDelegate\bin\Debug\HelloDelegate.pdb
+C:\Users\NC.DESKTOP-US9OHVR\RiderProjects\lab2-3\HelloDelegate\obj\Debug\HelloDelegate.csprojAssemblyReference.cache
+C:\Users\NC.DESKTOP-US9OHVR\RiderProjects\lab2-3\HelloDelegate\obj\Debug\HelloDelegate.csproj.CoreCompileInputs.cache
+C:\Users\NC.DESKTOP-US9OHVR\RiderProjects\lab2-3\HelloDelegate\obj\Debug\HelloDelegate.exe
+C:\Users\NC.DESKTOP-US9OHVR\RiderProjects\lab2-3\HelloDelegate\obj\Debug\HelloDelegate.pdb
